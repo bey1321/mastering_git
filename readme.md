@@ -1,2 +1,2 @@
-## Hello world
-## I like pizza
+## Hello class
+## I like maths
