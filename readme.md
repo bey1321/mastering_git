@@ -1,2 +1,3 @@
-## whats uppppppp!!!!
-## party time!!!!
+## Hello world
+## I like pizza
+## I like maths
